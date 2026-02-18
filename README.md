@@ -6,9 +6,7 @@ This repository contains structured notes on Git and GitHub covering fundamental
 
 You can download the complete detailed notes here:
 
-[Download GitHub Notes PDF](Git_GitHub_Notes.pdf)
-
-
+[Download GitHub Notes PDF :- Github&git_notes.pdf]
 
                                   
 
